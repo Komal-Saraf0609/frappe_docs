@@ -3,7 +3,7 @@ title: Types of DocType - Frappe Framework Tutorial
 description: There are different types of DocType available for different use cases
 ---
 
-# Types of DocType
+# Types of DocTypes
 
 Let's learn about the different types of doctype in the framework by creating
 more doctypes.
